@@ -1,0 +1,15 @@
+C:\Users\yusif\Desktop\c-sharp-intro\CA-test\NewLesson\bin\Debug\net6.0\NewLesson.exe
+C:\Users\yusif\Desktop\c-sharp-intro\CA-test\NewLesson\bin\Debug\net6.0\NewLesson.deps.json
+C:\Users\yusif\Desktop\c-sharp-intro\CA-test\NewLesson\bin\Debug\net6.0\NewLesson.runtimeconfig.json
+C:\Users\yusif\Desktop\c-sharp-intro\CA-test\NewLesson\bin\Debug\net6.0\NewLesson.dll
+C:\Users\yusif\Desktop\c-sharp-intro\CA-test\NewLesson\bin\Debug\net6.0\NewLesson.pdb
+C:\Users\yusif\Desktop\c-sharp-intro\CA-test\NewLesson\obj\Debug\net6.0\NewLesson.csproj.AssemblyReference.cache
+C:\Users\yusif\Desktop\c-sharp-intro\CA-test\NewLesson\obj\Debug\net6.0\NewLesson.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yusif\Desktop\c-sharp-intro\CA-test\NewLesson\obj\Debug\net6.0\NewLesson.AssemblyInfoInputs.cache
+C:\Users\yusif\Desktop\c-sharp-intro\CA-test\NewLesson\obj\Debug\net6.0\NewLesson.AssemblyInfo.cs
+C:\Users\yusif\Desktop\c-sharp-intro\CA-test\NewLesson\obj\Debug\net6.0\NewLesson.csproj.CoreCompileInputs.cache
+C:\Users\yusif\Desktop\c-sharp-intro\CA-test\NewLesson\obj\Debug\net6.0\NewLesson.dll
+C:\Users\yusif\Desktop\c-sharp-intro\CA-test\NewLesson\obj\Debug\net6.0\refint\NewLesson.dll
+C:\Users\yusif\Desktop\c-sharp-intro\CA-test\NewLesson\obj\Debug\net6.0\NewLesson.pdb
+C:\Users\yusif\Desktop\c-sharp-intro\CA-test\NewLesson\obj\Debug\net6.0\NewLesson.genruntimeconfig.cache
+C:\Users\yusif\Desktop\c-sharp-intro\CA-test\NewLesson\obj\Debug\net6.0\ref\NewLesson.dll
