@@ -8,6 +8,7 @@ using System;
 using System.Collections.Generic;
 using System.Runtime;
 using TaskManagement.Common.Commands;
+using DocumentFormat.OpenXml.Presentation;
 
 namespace TaskManagement.Client 
 {
@@ -91,12 +92,20 @@ namespace TaskManagement.Client
         public string Content { get; set; }
         public string Code { get; set; }
         private List<Comment> comments = new List<Comment>();
+        private string blogCode;
 
         public Blog(string title, string content, string code, Database.Models.User currentUser, Contants.BlogStatus created)
         {
             Title = title;
             Content = content;
             Code = code;
+        }
+
+        public Blog(string? title, string? content, string blogCode)
+        {
+            Title = title;
+            Content = content;
+            this.blogCode = blogCode;
         }
 
         public string GetBlogInfo()

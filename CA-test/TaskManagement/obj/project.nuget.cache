@@ -1,8 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "8h6LUK0CQdArLn6uWidCrAcMe0VvZ5kQUPRu0WGaluA2rvH/l5nGPGypH1Bm1XudjVOfk6xfkc1QedTegZY2JQ==",
+  "dgSpecHash": "FzBOReDT7HXmW2jhcee+2eHqknjc2oYRvv3wQs6DVl21vZ6mfiBtpSM0GSmXvfm9skSM363ZtgqahBGCPfMszg==",
   "success": true,
   "projectFilePath": "C:\\Users\\yusif\\Desktop\\The_Last_Task_\\CA-test\\TaskManagement\\TaskManagement.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\yusif\\.nuget\\packages\\documentformat.openxml\\2.20.0\\documentformat.openxml.2.20.0.nupkg.sha512",
+    "C:\\Users\\yusif\\.nuget\\packages\\system.io.packaging\\4.7.0\\system.io.packaging.4.7.0.nupkg.sha512"
+  ],
   "logs": []
 }
