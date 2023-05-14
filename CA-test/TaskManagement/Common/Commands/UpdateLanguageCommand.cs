@@ -25,6 +25,7 @@ namespace TaskManagement.Common.Commands
             else
             {
                 LocalizationService.CurrentCulture = SupportedCulture.Azerbaijani;
+                Console.WriteLine();
             }
 
 

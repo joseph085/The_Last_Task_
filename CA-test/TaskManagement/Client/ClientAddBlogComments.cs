@@ -91,6 +91,9 @@ namespace TaskManagement.Client
         public string Title { get; set; }
         public string Content { get; set; }
         public string Code { get; set; }
+        public object Comments { get; internal set; }
+        public object PublishDate { get; internal set; }
+
         private List<Comment> comments = new List<Comment>();
         private string blogCode;
 
