@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\yusif\\Desktop\\The_Last_Task_\\c-sharp-intro\\CA-test\\Authentication\\Authentication.csproj": {}
+    "C:\\Users\\yusif\\Desktop\\The_Last_Task_\\CA-test\\Authentication\\Authentication.csproj": {}
   },
   "projects": {
-    "C:\\Users\\yusif\\Desktop\\The_Last_Task_\\c-sharp-intro\\CA-test\\Authentication\\Authentication.csproj": {
+    "C:\\Users\\yusif\\Desktop\\The_Last_Task_\\CA-test\\Authentication\\Authentication.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\yusif\\Desktop\\The_Last_Task_\\c-sharp-intro\\CA-test\\Authentication\\Authentication.csproj",
+        "projectUniqueName": "C:\\Users\\yusif\\Desktop\\The_Last_Task_\\CA-test\\Authentication\\Authentication.csproj",
         "projectName": "Authentication",
-        "projectPath": "C:\\Users\\yusif\\Desktop\\The_Last_Task_\\c-sharp-intro\\CA-test\\Authentication\\Authentication.csproj",
+        "projectPath": "C:\\Users\\yusif\\Desktop\\The_Last_Task_\\CA-test\\Authentication\\Authentication.csproj",
         "packagesPath": "C:\\Users\\yusif\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\yusif\\Desktop\\The_Last_Task_\\c-sharp-intro\\CA-test\\Authentication\\obj\\",
+        "outputPath": "C:\\Users\\yusif\\Desktop\\The_Last_Task_\\CA-test\\Authentication\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\yusif\\AppData\\Roaming\\NuGet\\NuGet.Config",

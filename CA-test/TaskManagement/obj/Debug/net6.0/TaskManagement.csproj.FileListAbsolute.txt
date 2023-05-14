@@ -13,3 +13,11 @@ C:\Users\yusif\Desktop\c-sharp-intro\CA-test\TaskManagement\obj\Debug\net6.0\ref
 C:\Users\yusif\Desktop\c-sharp-intro\CA-test\TaskManagement\obj\Debug\net6.0\TaskManagement.pdb
 C:\Users\yusif\Desktop\c-sharp-intro\CA-test\TaskManagement\obj\Debug\net6.0\TaskManagement.genruntimeconfig.cache
 C:\Users\yusif\Desktop\c-sharp-intro\CA-test\TaskManagement\obj\Debug\net6.0\ref\TaskManagement.dll
+C:\Users\yusif\Desktop\The_Last_Task_\CA-test\TaskManagement\obj\Debug\net6.0\TaskManagement.csproj.AssemblyReference.cache
+C:\Users\yusif\Desktop\The_Last_Task_\CA-test\TaskManagement\obj\Debug\net6.0\TaskManagement.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yusif\Desktop\The_Last_Task_\CA-test\TaskManagement\obj\Debug\net6.0\TaskManagement.AssemblyInfoInputs.cache
+C:\Users\yusif\Desktop\The_Last_Task_\CA-test\TaskManagement\obj\Debug\net6.0\TaskManagement.AssemblyInfo.cs
+C:\Users\yusif\Desktop\The_Last_Task_\CA-test\TaskManagement\obj\Debug\net6.0\TaskManagement.csproj.CoreCompileInputs.cache
+C:\Users\yusif\Desktop\The_Last_Task_\CA-test\TaskManagement\obj\Debug\net6.0\TaskManagement.dll
+C:\Users\yusif\Desktop\The_Last_Task_\CA-test\TaskManagement\obj\Debug\net6.0\refint\TaskManagement.dll
+C:\Users\yusif\Desktop\The_Last_Task_\CA-test\TaskManagement\obj\Debug\net6.0\TaskManagement.pdb

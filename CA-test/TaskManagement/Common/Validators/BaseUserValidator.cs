@@ -22,13 +22,13 @@ namespace TaskManagement.Common.Validators
         {
             while (true)
             {
-                Console.WriteLine(LocalizationService.GetTranslation(TranslationKey.GetAdminName));
+                Console.WriteLine(LocalizationService.GetTranslation(TranslationKey.NAME_REQUEST));
                 string firstName = Console.ReadLine()!;
 
                 if (IsValidFirstName(firstName))
                     return firstName;
 
-                Console.WriteLine("Some information is not correnct");
+                Console.WriteLine(LocalizationService.GetTranslation(TranslationKey.INCORRECT_NAME));
             }
         }
         protected virtual bool IsValidFirstName(string firstName)
@@ -48,13 +48,13 @@ namespace TaskManagement.Common.Validators
         {
             while (true)
             {
-                Console.WriteLine("Pls enter last name : ");
+                Console.WriteLine(LocalizationService.GetTranslation(TranslationKey.SURNAME_REQUEST));
                 string lastName = Console.ReadLine()!;
 
                 if (IsValidLastName(lastName))
                     return lastName;
 
-                Console.WriteLine("Some information is not correnct");
+                Console.WriteLine(LocalizationService.GetTranslation(TranslationKey.INCORRECT_NAME));
             }
         }
         protected virtual bool IsValidLastName(string lastName)
@@ -73,16 +73,16 @@ namespace TaskManagement.Common.Validators
         {
             while (true)
             {
-                Console.WriteLine("Pls enter password : ");
+                Console.WriteLine(LocalizationService.GetTranslation(TranslationKey.PASSWORD_REQUEST));
                 string password = Console.ReadLine()!;
 
-                Console.WriteLine("Pls enter confirm password : ");
+                Console.WriteLine(LocalizationService.GetTranslation(TranslationKey.PASSWORD_REQUEST_AGAIN));
                 string confirmPassword = Console.ReadLine()!;
 
                 if (password == confirmPassword)
                     return password;
 
-                Console.WriteLine("Some information is not correnct");
+                Console.WriteLine(LocalizationService.GetTranslation(TranslationKey.INVALID_PASSWORD));
             }
         }
 
@@ -105,7 +105,7 @@ namespace TaskManagement.Common.Validators
 
                 if (!regex.IsMatch(email))
                 {
-                  Console.WriteLine(LocalizationService.GetTranslation(TranslationKey.INVALID_EMAIL));
+                    Console.WriteLine(LocalizationService.GetTranslation(TranslationKey.INVALID_EMAIL));
 
                     continue;
                 }
@@ -166,6 +166,5 @@ namespace TaskManagement.Common.Validators
         }
 
         #endregion
-
     }
 }
